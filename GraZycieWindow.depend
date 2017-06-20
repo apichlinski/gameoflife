@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1494078620 source:d:\users\andrzej.pichlinski\desktop\gra_zycie_window\grazyciewindow\main.cpp
+	<tchar.h>
+	<windows.h>
+	"GameAPI.h"
+
+1494074762 source:d:\users\andrzej.pichlinski\desktop\gra_zycie_window\grazyciewindow\src\engine.cpp
+	"Engine.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1494074777 d:\users\andrzej.pichlinski\desktop\gra_zycie_window\grazyciewindow\include\engine.h
+
+1494074767 source:d:\users\andrzej.pichlinski\desktop\gra_zycie_window\grazyciewindow\src\game.cpp
+	"Game.h"
+
+1494074786 d:\users\andrzej.pichlinski\desktop\gra_zycie_window\grazyciewindow\include\game.h
+	"Engine.h"
+
+1494078292 d:\users\andrzej.pichlinski\desktop\gra_zycie_window\grazyciewindow\include\gameapi.h
+	<windows.h>
+	"Game.h"
+
+1494078486 source:d:\users\andrzej.pichlinski\desktop\gra_zycie_window\grazyciewindow\src\gameapi.cpp
+	"GameAPI.h"
+	<iostream>
+
+1495823622 source:c:\users\andrzej\desktop\gra_zycie_window\main.cpp
+	<tchar.h>
+	<windows.h>
+	"GameAPI.h"
+
+1494081892 c:\users\andrzej\desktop\gra_zycie_window\include\gameapi.h
+	<windows.h>
+	"Game.h"
+
+1494270021 c:\users\andrzej\desktop\gra_zycie_window\include\game.h
+	"Engine.h"
+
+1494078377 c:\users\andrzej\desktop\gra_zycie_window\include\engine.h
+
+1494191790 source:c:\users\andrzej\desktop\gra_zycie_window\src\engine.cpp
+	"Engine.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1494270040 source:c:\users\andrzej\desktop\gra_zycie_window\src\game.cpp
+	"Game.h"
+
+1494269959 source:c:\users\andrzej\desktop\gra_zycie_window\src\gameapi.cpp
+	"GameAPI.h"
+	<iostream>
+
+1497913434 source:d:\c++\gra_zycie_window\main.cpp
+	<tchar.h>
+	<windows.h>
+	"GameAPI.h"
+
+1494081892 d:\c++\gra_zycie_window\include\gameapi.h
+	<windows.h>
+	"Game.h"
+
+1494270021 d:\c++\gra_zycie_window\include\game.h
+	"Engine.h"
+
+1494078377 d:\c++\gra_zycie_window\include\engine.h
+
+1497913391 source:d:\c++\gra_zycie_window\src\engine.cpp
+	"Engine.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1497912730 source:d:\c++\gra_zycie_window\src\game.cpp
+	"Game.h"
+
+1494269959 source:d:\c++\gra_zycie_window\src\gameapi.cpp
+	"GameAPI.h"
+	<iostream>
+
